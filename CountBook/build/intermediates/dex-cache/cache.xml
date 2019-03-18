@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/s/p/spei/.android/build-cache/e46ce424a2c781e7da0aac1b6c9f9178e2193095/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/pre-dexed/debug/classes_a8fcfaa11bbd22787b9692ea6f60d8e1a9c54b4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/s/p/spei/.android/build-cache/79fd0db18010a7a800aa7b8a9ea7da1bce472f05/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/pre-dexed/debug/classes_3b692591067ce0e81d9824bc9eed2fd1a6165fdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/s/p/spei/.android/build-cache/9adccf6cd490df35e2b84cd37467ce1f3b424e9f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/pre-dexed/debug/classes_ad4b00aff25e5dff4572446d477396952d89448d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a7d537a4953ec6cb3718bf7d7dc8474c0703460a">
+        <dex dex="/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_db36f9a1530cb74e1d33006cc803c4b3a659595f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/s/p/spei/.android/build-cache/4b61db7efeaf1d5e2d21bcb42ccf335fa6c3bba5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/pre-dexed/debug/classes_4e849997341f96713ef00f98fed75827b5c71301.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/s/p/spei/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_86ca925033f380f26d1e5e45729471e6d9386918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/s/p/spei/.android/build-cache/f46ecde4b09b11e7f9dc865c2963f663e8987ff2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/pre-dexed/debug/classes_3d847bc5b778fb56aa7157c08d17f28a55e5c1a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/s/p/spei/.android/build-cache/04af226f01d96a64b1b28af11c2d525e40bf85c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/pre-dexed/debug/classes_11b51d3608dcd06791e3fefe8827d2bca2f82b37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/s/p/spei/.android/build-cache/c2ae7ba63688f60626dd081957df2b3fc4b0c408/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/pre-dexed/debug/classes_c70403fa0de8fea5bd3602cb68006a2753e22ab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/s/p/spei/.android/build-cache/6c406f3e37915d377ecd60d03c63ae7ce5c3be00/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/pre-dexed/debug/classes_0899d57f2f19ca446abf56b274988793072339a8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_86c11042399117cd0121959c14199437a50bbe78/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/s/p/spei/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/pre-dexed/debug/gson-2.8.2_5cf39770ac3cda63ef1333b40b7101f3f6b9b1e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/s/p/spei/.android/build-cache/81c4c7a0537117af7bd0ff634231f6dd07e0b7cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/pre-dexed/debug/classes_8e6ca6c069f2d3db449af4ffc2b3866beceb236d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/s/p/spei/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_43013cfdc92852e3828f4005643edf4a79752113.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/s/p/spei/.android/build-cache/ea54dd21b9059158cfbca238449a527ca8ef9321/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/afs/ualberta.ca/home/s/p/spei/CountBook/app/build/intermediates/pre-dexed/debug/classes_f7bc1d84d2e16affc85745241a6be6b95d882006.jar" />
+    </item>
+
+</items>
