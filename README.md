@@ -16,7 +16,9 @@ This is my CMPUT 301 assignment. I finished it by my self.
 The Machine-Learning-Package should be the first one. I have learned many fundamental ML concepts from the package. I believe ML can help us to generate front end automatically in the future.
 
 I am also interested in the new framework of front end. Vue.js is a relatively new JavaScript framework. It fits for creating adaptable user interfaces and sophisticated Single-page applications. The size of Vue.js is tiny so it allows reaching much better performance in comparison to other frameworks.
+
 https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd
+
 https://medium.com/the-vue-point/plans-for-the-next-iteration-of-vue-js-777ffea6fabf
 
 
