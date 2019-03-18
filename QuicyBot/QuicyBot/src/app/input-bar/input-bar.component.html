@@ -1,0 +1,10 @@
+<div>
+  <input class="name-input" matInput placeholder="Enter a name" (keyup.enter)="onSearchChange($event.target.value)">
+  <mat-progress-bar class="progress-bar" *ngIf="progressBarLoading$ | async" mode="query"></mat-progress-bar>
+  <app-lyrics-panel *ngIf="(showResult$ | async)" [actorName]="actorName$ | async"
+                    [trackNameList]="trackNameList$ | async"
+                    [lyricsList]="lyricsList$ | async"
+                    [sentimentScoreList]="sentimentScoreList$ | async"></app-lyrics-panel>
+  <img id="photo_of_musician" class="music-photo" *ngIf="showResult$ | async" [src]="artistImageUrl$ | async">
+</div>
+

@@ -1,0 +1,26 @@
+<div [@childAnimation]="isOpen ? 'open' : 'closed'" class="home-container">
+  <div class="text-container">
+
+    <div class="line-container">
+      <div class="line1">Hello!</div>
+    </div>
+
+    <div class="line-container">
+        <div class="line2">Do you know your musicians?</div>
+    </div>
+
+    <div class="line-container">
+      <div class="line3">This a personality analysis</div>
+    </div>
+
+    <div class="line-container">
+      <div class="line4">based on machine learning.</div>
+    </div>
+
+  </div>
+
+  <div class="button-container">
+    <button class="start-button" mat-flat-button color="warn" (click)="redirectToInput()">Let's start!</button>
+  </div>
+
+</div>
